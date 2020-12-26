@@ -1,2 +1,2 @@
 # rust-querybuilder
-A MySQL query builder for rust applications
+A MySQL query builder for rust applications.
